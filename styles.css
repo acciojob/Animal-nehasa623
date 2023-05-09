@@ -1,1 +1,10 @@
-/*  your css code here. If applicable */
+#animal-photos{
+	background-color:black;
+	width:1200px;
+		height:1000px;
+	border:10px 
+}#photo-heading{
+	background-color:gray;
+	width:1000px;
+	height:1000px
+}
